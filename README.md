@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab</h2>
 
 - <b>SOC Home Lab with Active Directory</b>
-  - [Active Directory Bulk User Creation](https://github.com/bhattrai23/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/bhattrai23/Active-Directory/tree/main)
   - [FIM (File Integrity Monitor)](https://github.com/bhattrai23/PowerShell-Integrity-FIM)
 - <b>CCNA Network Design</b>
   - [Image Analysis Middleware](https://github.com/bhattrai23/4chan-Image-Analysis-Middleware-C964) <i>(Potentially NSFW)</i>
